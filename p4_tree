@@ -1,0 +1,30 @@
+* 952c51b (origin/python, python) Add calculation to source.py
+* 53ef5f9 Fix typo in source.py
+* 3cb9bdd Add source.py
+| * c630ffd (origin/cpp, cpp) Add source.cpp
+|/  
+| * a3f0953 (HEAD -> main, origin/main) Answers from part 3
+| * 1fc1f5b Answers from part 2
+| * 3039be9 Remote exercise
+| * 0a81ba9 Add source.cpp, edit information.txt README.md
+| * fa7f5d9 Add source.py and reset.sh
+|/  
+* a936e3c Add miscellaneous files
+| * b99f63f (upstream/main, upstream/HEAD) Rewrite README.md; add LICENSE
+| *   32c66c1 Merge branch 'cpp' into main
+| |\  
+| | * 1f54cdc (upstream/cpp) Add source.cpp
+| * | 0e38163 Touch up information.txt
+| * |   717811d Merge branch 'python' into main
+| |\ \  
+| | |/  
+| |/|   
+| | * 245eaa2 (upstream/python) Add calculation to source.py
+| | * 82e68c4 Fix typo in source.py
+| | * 849cf4f Add source.py
+| * | 3f3213f Add reset.sh
+| |/  
+| * 90ee3a5 Add gitignore
+| * 6267065 Add miscellaneous files
+|/  
+* 5d7f497 Initial commit
