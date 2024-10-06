@@ -1,0 +1,20 @@
+total 152
+drwxr-xr-x  19 hengrui  staff    608 Oct  6 15:44 .
+drwxr-xr-x  12 hengrui  staff    384 Oct  6 15:33 ..
+-rw-r--r--   1 hengrui  staff     34 Oct  6 15:43 1728243799.obj
+-rw-r--r--   1 hengrui  staff    136 Oct  6 15:41 source.cpp
+-rw-r--r--   1 hengrui  staff     34 Oct  6 15:43 1728243799.o
+-rw-r--r--   1 hengrui  staff   1096 Oct  6 15:44 old.o
+-rw-r--r--   1 hengrui  staff   1072 Oct  6 15:41 LICENSE
+-rw-r--r--   1 hengrui  staff     30 Oct  6 15:43 1728243799.object
+-rw-r--r--   1 hengrui  staff    118 Oct  6 15:41 information.txt
+-rw-r--r--   1 hengrui  staff    136 Oct  6 15:41 branch_data
+-rw-r--r--   1 hengrui  staff      0 Oct  6 15:44 current_files
+-rw-r--r--   1 hengrui  staff  11912 Oct  6 15:33 PU-standard.png
+-rw-r--r--   1 hengrui  staff    242 Oct  6 15:41 remote_data
+-rw-r--r--   1 hengrui  staff  11301 Oct  6 15:41 README.md
+-rw-r--r--   1 hengrui  staff     28 Oct  6 15:33 data.dat
+-rw-r--r--   1 hengrui  staff   1384 Oct  6 15:43 .gitignore
+-rw-r--r--   1 hengrui  staff    170 Oct  6 15:41 reset.sh
+drwxr-xr-x  15 hengrui  staff    480 Oct  6 15:44 .git
+-rw-r--r--   1 hengrui  staff     58 Oct  6 15:35 source.py
